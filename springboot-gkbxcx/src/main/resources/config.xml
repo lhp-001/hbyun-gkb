@@ -3,15 +3,15 @@
     <!-- 短信验证配置 -->
     <message type="GRC07">
 	    <!-- key -->
-	    <accessKeyId>DCn2gqTNhnr14UQS</accessKeyId>
+	    <accessKeyId></accessKeyId>
 	    <!-- 秘钥 -->
-	    <accessKeySecret>Fbw29EYcwWSbc4CxNsDl9TPb9EBOiz</accessKeySecret>
+	    <accessKeySecret></accessKeySecret>
 	    <!--管控宝注册模板  -->
-	    <registertemplateCode>SMS_171859489</registertemplateCode>
+	    <registertemplateCode></registertemplateCode>
 	    <!--管控宝修改密码模板  -->
-	    <updatePwdtemplateCode>SMS_130975177</updatePwdtemplateCode>
+	    <updatePwdtemplateCode></updatePwdtemplateCode>
 	    <!-- 短信签名 -->
-	    <signName>华博云管控宝</signName>
+	    <signName></signName>
     </message>
     
 </Accounts>
