@@ -1,2 +1,0 @@
-
-export MessageCenter from './messageCenter';

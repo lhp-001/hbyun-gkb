@@ -1,2 +1,0 @@
-export const RESERVE_ADD = 'RESERVE_ADD';
-export const RESERVE_GET_LIST = 'RESERVE_GET_LIST';
